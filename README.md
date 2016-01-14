@@ -1,2 +1,2 @@
 # ArduinoSketches
-This are some useful arduino sketches I wrote for learning or some projects.
+These are some useful arduino sketches I wrote for learning or some projects.
